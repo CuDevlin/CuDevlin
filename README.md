@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Devlin Onichuk</h1>
 <h3 align="center">A passionate software engineer from Canada!</h3>
 
-- 🔭 I’m currently working on my **Bachelor's Project**
+- 🔭 I’m currently working on developing skills in **Machine Learning** [https://github.com/CuDevlin/Machine-Learning-Assignments](https://github.com/CuDevlin/Machine-Learning-Assignments)
 
-- 🌱 I’m currently learning **Machine Learning, VR & AR Development**
+- 🌱 I’m currently learning **Machine Learning, VR & AR Development** 
 
 - 👯 I’m looking to gain experience in **Machine Learning and Data Visualization**
 
