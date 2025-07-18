@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working on developing skills in **Machine Learning** [https://github.com/CuDevlin/Machine-Learning-Assignments](https://github.com/CuDevlin/Machine-Learning-Assignments)
 
-- 🌱 I’m currently learning **Machine Learning, and Project Management** 
+- 🌱 I’m currently learning **Classification Models** 
 
-- 👯 I’m looking to gain experience in **Machine Learning and Data Visualization**
+- 👯 I’m looking to gain experience in **Software Development, and Project Management**
 
 - 👨‍💻 All of my projects are available at [https://github.com/CuDevlin](https://github.com/CuDevlin)
 
